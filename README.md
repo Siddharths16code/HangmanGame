@@ -1,6 +1,6 @@
-# 🎯 CodeAlpha Hangman Game (Task 1)
+#  Hangman Game 
 
-A simple text-based Hangman game built in Python as part of the **CodeAlpha Internship Task 1**. The player guesses a randomly selected word one letter at a time using the command line interface (CLI).
+A simple text-based Hangman game built in Python . The player guesses a randomly selected word one letter at a time using the command line interface (CLI).
 
 ---
 
